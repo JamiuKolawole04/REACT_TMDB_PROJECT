@@ -1,6 +1,6 @@
 
 // Config data
-import { POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL } from "../config";
+import { POSTER_SIZE, IMAGE_BASE_URL } from "../config";
 
 //Components
 import HeroImage from "./HeroImage";
